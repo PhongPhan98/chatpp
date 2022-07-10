@@ -1,0 +1,8 @@
+D:\ALL_SOURCE\ANGULAR\ChatApp\ChatApp\WebApplication1\obj\Release\net6.0\PubTmp\Out\chatapp.exe
+D:\ALL_SOURCE\ANGULAR\ChatApp\ChatApp\WebApplication1\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+D:\ALL_SOURCE\ANGULAR\ChatApp\ChatApp\WebApplication1\obj\Release\net6.0\PubTmp\Out\appsettings.json
+D:\ALL_SOURCE\ANGULAR\ChatApp\ChatApp\WebApplication1\obj\Release\net6.0\PubTmp\Out\libman.json
+D:\ALL_SOURCE\ANGULAR\ChatApp\ChatApp\WebApplication1\obj\Release\net6.0\PubTmp\Out\chatapp.dll
+D:\ALL_SOURCE\ANGULAR\ChatApp\ChatApp\WebApplication1\obj\Release\net6.0\PubTmp\Out\chatapp.deps.json
+D:\ALL_SOURCE\ANGULAR\ChatApp\ChatApp\WebApplication1\obj\Release\net6.0\PubTmp\Out\chatapp.runtimeconfig.json
+D:\ALL_SOURCE\ANGULAR\ChatApp\ChatApp\WebApplication1\obj\Release\net6.0\PubTmp\Out\chatapp.pdb
